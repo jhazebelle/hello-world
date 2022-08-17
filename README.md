@@ -22,11 +22,17 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
 
 <main>
 
+<br>
    <body>
       <h3>Learning Journal</h3>
          <h6>08/17/2022</h6>
-         <p>
-            Start entry here.
-         </p>
+            <p>
+               Start entry here.
+            </p>
+<br>
+         <h6>08/18/2022</h6>
+            <p>
+               Start entry here.
+            </p>
     </body>
 </main>
