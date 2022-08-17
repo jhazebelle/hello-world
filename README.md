@@ -19,3 +19,14 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
     <li>Wasabi ;(</li>
     <li>People who are bad at driving</li>
   </ul>
+
+<main>
+
+   <body>
+      <h5>Learning Journal<h5>
+         <h6>08/17/2022</h6>
+         <p>
+            Enter here.
+         </p>
+    </body>
+</main>
