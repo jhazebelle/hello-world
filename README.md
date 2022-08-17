@@ -23,10 +23,10 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
 <main>
 
    <body>
-      <h5>Learning Journal<h5>
+      <h3>Learning Journal</h3>
          <h6>08/17/2022</h6>
          <p>
-            Enter here.
+            Start entry here.
          </p>
     </body>
 </main>
