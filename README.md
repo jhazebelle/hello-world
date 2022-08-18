@@ -33,7 +33,7 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
          <h6>08/18/2022</h6>
             <p>
                Today I learned about specificity, chaining, descendant combinators, and an HTML element can have two or more CSS selectors at the same time by typing
-               the element first, the period, and the clas. Example: h1.special { }
+               the element first, the period, and the class. Example: h1.special { }
             </p>
 <br>
          <h6>08/19/2022</h6>
