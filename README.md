@@ -50,5 +50,5 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
             <p>
             
             </p>            
-    </body>
+    
 </main>
