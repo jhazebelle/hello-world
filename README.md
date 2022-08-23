@@ -36,17 +36,17 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
                the element first, the period, and the class. Example: h1.special { }
             </p>
 <br>
-         <h6>08/19/2022</h6>
+         <h6>08/23/2022</h6>
             <p>
             
             </p>
 <br>
-         <h6>08/20/2022</h6>
+         <h6>08/24/2022</h6>
             <p>
             
             </p>
 <br>
-         <h6>08/20/2022</h6>
+         <h6>08/25/2022</h6>
             <p>
             
             </p>            
