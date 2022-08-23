@@ -38,7 +38,8 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
 <br>
          <h6>08/23/2022</h6>
             <p>
-            
+               So today, I learned about chaining and specificity. For example if .main is the class and is .main p { color: red; } this means that the p type as the 
+               selector inside the .main element will appear red. Remember, class is not as specific as type. 
             </p>
 <br>
          <h6>08/24/2022</h6>
