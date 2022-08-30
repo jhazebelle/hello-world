@@ -25,6 +25,7 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
 <br>
    <body>
       <h3>Learning Journal</h3>
+      <h5>August 2022</h5>
          <h6>08/17/2022</h6>
             <p>
                I learned all about selectors in CSS which applies certain codes to certain classes, elements, and types.
@@ -50,6 +51,8 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
          <h6>08/31/2022</h6>
             <p>
             
-            </p>            
+            </p> 
+<br>
+      <h5>September 2022</h5>
     
 </main>
