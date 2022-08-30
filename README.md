@@ -42,12 +42,12 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
                selector inside the .main element will appear red. Remember, class is not as specific as type. 
             </p>
 <br>
-         <h6>08/24/2022</h6>
+         <h6>08/30/2022</h6>
             <p>
             
             </p>
 <br>
-         <h6>08/25/2022</h6>
+         <h6>08/31/2022</h6>
             <p>
             
             </p>            
