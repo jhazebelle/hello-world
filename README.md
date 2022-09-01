@@ -26,33 +26,37 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
    <body>
       <h3>Learning Journal</h3>
       <h4>August 2022</h4>
-         <h6>08/17/2022</h6>
+         <h6>8/17/2022</h6>
             <p>
                I learned all about selectors in CSS which applies certain codes to certain classes, elements, and types.
             </p>
 <br>
-         <h6>08/18/2022</h6>
+         <h6>8/18/2022</h6>
             <p>
                Today I learned about specificity, chaining, descendant combinators, and an HTML element can have two or more CSS selectors at the same time by typing
                the element first, the period, and the class. Example: h1.special { }
             </p>
 <br>
-         <h6>08/23/2022</h6>
+         <h6>8/23/2022</h6>
             <p>
                So today, I learned about chaining and specificity. For example if .main is the class and is .main p { color: red; } this means that the p type as the 
                selector inside the .main element will appear red. Remember, class is not as specific as type. 
             </p>
 <br>
-         <h6>08/30/2022</h6>
+    <h4>September 2022</h4>
+         <h6>9/1/2022</h6>
             <p>
-            
+               What a productive and tiring day! I completed a project using CSS Selectors. The project is called "Healthy Recipes" and the goal is to transform the 
+               HTML only webpage into a whole new and exciting webpage using CSS. In this project, I used the image selector and adjusted the size of the photo so that
+               it's smaller and even transformed the bulleted points of an unordered list from circles to squares. How amazing is that? Next I'll be doing another
+               project by using CSS visual rules and creating rule sets to improve the appearance of a portfolio webpage.
             </p>
 <br>
-         <h6>08/31/2022</h6>
+         <h6>9/2/2022</h6>
             <p>
             
             </p> 
 <br>
-      <h4>September 2022</h4>
+   
     
 </main>
