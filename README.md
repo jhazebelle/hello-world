@@ -54,7 +54,7 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
 <br>
          <h6>9/6/2022</h6>
             <p>
-            
+            Today I learned that buttons aren't acceptable here. As seen below.
             </p> 
       <button>Do not click!</button>
             <aside>Please do not click on the button above. I really mean it. It's a useless button</aside>
