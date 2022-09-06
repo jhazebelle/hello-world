@@ -1,7 +1,7 @@
 # hello-world
 *Jhasmin's* **_First Repository_**
 
-Yes I'm a beginner and a student in coding. 
+Yes I'm a beginner and a student in Full Stack Wed Development. 
 
 I will make **many many** ~~misteaks~~ mistakes however, these are just _learning experiences._ 
 
@@ -52,10 +52,12 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
                project by using CSS visual rules and creating rule sets to improve the appearance of a portfolio webpage.
             </p>
 <br>
-         <h6>9/2/2022</h6>
+         <h6>9/6/2022</h6>
             <p>
             
             </p> 
+            <button>Do not click!</button?
+            <aside>Please do not click on the button above. I really mean it. It's a useless button</aside>
 <br>
    
     
