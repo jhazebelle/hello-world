@@ -59,6 +59,20 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
       <button>Do not click!</button>
             <aside>Please do not click on the button above. I really mean it. It's a useless button</aside>
 <br>
-   
+         <h6>9/9/2022</h6>
+            <p>
+            I finished up the CSS project "Olivia Woodruff Portfolio" on Codecademy with a bit of help from the step by step hints optional to your learning process.
+            Though I've only progressed up to 4%, I realized that this learning process is almost like traveling back to when websites were mostly made with simple 
+            HTML, moving on to CSS, and then evolving into more powerful versions with the hands of JavaScript. I still know little to nothing about JS but soon that
+            will change!
+            </p>
+            <p>
+            Note: I recently started an account with Testbirds. There, I hope to gain experience from the feedbacks of web development professionals even if the pay
+            isn't that exuberant. Testbirds is a site where testers seek any errors or functionality issues with company sites and in return, earn compensation for
+            what they find with the amounts dependent on the amount of information provided. They will prioritize on testers who have a more completed profile so if a
+            tester submits a bug report with a completed profile, their report will be reviewed first. The only thing I have left to complete is the "Specialty 
+            Knowledge" section.
+            </p>
+         
     
 </main>
