@@ -82,6 +82,5 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
             applied to help out at a local library to guide and coach in their technology department as a volunteer. I hope that I'll be able to do this and gain
             experience in the tech field!
             </p>
-<br>
     
 </main>
