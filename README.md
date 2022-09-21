@@ -73,6 +73,15 @@ I will make **many many** ~~misteaks~~ mistakes however, these are just _learnin
             tester submits a bug report with a completed profile, their report will be reviewed first. The only thing I have left to complete is the "Specialty 
             Knowledge" section.
             </p>
-         
+ <br>
+          <h6>9/21/2022</h6>
+            <p>
+            Hello github, it has been a while since I've visited you. I was busy trying to get all my work done for my day job before my big trip to Zion National Park
+            in Utah (Only 4 days, yay!). Long story short, the trip was amazing! The journey there was interesting, and I was witness to big beautiful rocky mountains,
+            wild deers, and really red murky rivers! Anyway, here's an update to my learning journey. I am still at 4% during my Codecademy learning journey. I have
+            applied to help out at a local library to guide and coach in their technology department as a volunteer. I hope that I'll be able to do this and gain
+            experience in the tech field!
+            </p>
+<br>
     
 </main>
