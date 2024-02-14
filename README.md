@@ -1,7 +1,7 @@
 # hello-world
 *Jhasmin's* **_First Repository_**
 
-Yes I'm a beginner and a student in Full Stack Wed Development. 
+Yes I'm a beginner and a student at <b>Southern New Hampshire University</b> in the Bachelor's of Science in Computer Science.
 
 I will make **many many** ~~misteaks~~ mistakes however, these are just _learning experiences._ 
 
